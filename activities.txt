@@ -1,0 +1,72 @@
+Add Course
+Delete Notice
+Update Course
+View Notice
+Reset Password
+............................................................................................................
+reset password:-
+Create Reset Password Form
+Create a Temporary Token Table
+Create a Database Connection
+get the user details from the database.
+If the user information is found in the database, then the user will be allowed to enter new password.
+then the reset password script will be executed.
+Password will be reset and a confirmantion message will be sent to user.
+............................................................................................................
+Add Course:- 
+Create Add Course interface
+Add Course information Field
+Enable Add Course Content TextBox
+Save courses information
+A confirmation message will be sent
+...........................................................................................................
+View Notice:- 
+Create View Notice Interface
+Create View Notice Button
+Create a Database Connection
+All previous notices are fetched from database 
+checks for new notices from the server.
+If there are new notices on the server, it will fetch all those notices.
+..........................................................................................................
+Delete Notice:- 
+Create Delete Notice Button
+Create a Database Connection
+notice will be fetched from database
+Notice will be deleted from database
+A confirmation message will be sent
+............................................................................................................
+Update Course:- 
+Create Update Course Button
+Create Update Course Interface
+Create a Database Connection
+notice will be fetched from database
+System will allow the user to make changes in Course 
+Course will be Updated in database
+System saves the updated course information
+A confirmation message will be sent
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+EF = ES + duration — 1
+ES = EF + 1
+
+LS = LF — duration + 1
+LF = LS - 1
+
+Float = EF – ES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
